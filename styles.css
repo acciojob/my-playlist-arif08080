@@ -1,9 +1,5 @@
 /*  your css code here. If applicable */	
-.player_one,.player_one{
-background-color: white;
-padding:
-border-radius:		
-}
+
 h1,div,ul,li,a,h2,video,audio{
 	length:1px;
 }
@@ -12,17 +8,19 @@ h1,h2{
 }
 li{
 	list-style-type: none
+	
 }
 a{
 	text-decoration-line: none
+	
 }
 video{
 	background-color: rgb(255, 255, 255);
-	padding: border-radius;
+	padding: border-radius:1px;
 }
 audio{
 	background-color: rgb(255, 255, 255); 
-	padding: border-radius;
+	padding: border-radius:1px;
 }
 body{
 	background-color: rgb(204, 204, 204);
