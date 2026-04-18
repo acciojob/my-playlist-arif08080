@@ -1,6 +1,13 @@
 /*  your css code here. If applicable */	
+.player_one,.player_one{
+background-color: white;
+padding:
+border-radius:		
 }
-h1,h2,h2{
+h1,div,ul,li,a,h2,video,audio{
+	length:1px;
+}
+h1,h2{
 	text-align:center;
 }
 li{
